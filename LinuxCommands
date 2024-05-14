@@ -5,4 +5,4 @@ cat filename
 cat > filename
 
 tail
-description: It will display first 10 lines
+description: It will display last 10 lines
