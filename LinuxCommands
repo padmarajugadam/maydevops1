@@ -4,3 +4,5 @@ usage:
 cat filename
 cat > filename
 
+tail
+description: It will display first 10 lines
